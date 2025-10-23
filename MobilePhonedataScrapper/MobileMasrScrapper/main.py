@@ -4,13 +4,27 @@ import aiohttp
 import json
 from datetime import datetime
 import aiofiles
+import os
+from pathlib import Path
+
+# Load environment variables
+try:
+    from dotenv import load_dotenv
+    env_path = Path(__file__).parent / '.env'
+    load_dotenv(dotenv_path=env_path)
+except ImportError:
+    print("[Warning] python-dotenv not installed. Install with: pip install python-dotenv")
 
 class MobileMasrAlgoliaScraper:
     def __init__(self, max_concurrent=20):
         self.base_url = "https://mobilemasr.com/en/category/mobile-phone/products"
-        self.algolia_app_id = "X3KJNJZJWC"
-        self.algolia_api_key = "4e013102c9474eb499796a7f18de6334"
+        self.algolia_app_id = os.getenv("ALGOLIA_APP_ID")
+        self.algolia_api_key = os.getenv("ALGOLIA_API_KEY")
         self.algolia_index = "Variant_new_index"
+        
+        if not self.algolia_app_id or not self.algolia_api_key:
+            raise ValueError("ALGOLIA_APP_ID and ALGOLIA_API_KEY must be set in .env file")
+        
         self.products = []
         self.semaphore = asyncio.Semaphore(max_concurrent)
         

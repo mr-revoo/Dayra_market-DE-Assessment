@@ -35,6 +35,7 @@ The project uses the following Python packages:
 - `aiohttp` - Async HTTP client (Mobile Masr scraper)
 - `aiofiles` - Async file I/O
 - `requests` - HTTP library (for testing)
+- `python-dotenv` - Environment variable management
 
 ## Installation & Setup
 
@@ -69,8 +70,17 @@ These scripts will:
 
 3. **Install dependencies:**
    ```bash
-   pip install selenium beautifulsoup4 lxml aiohttp aiofiles requests
+   pip install selenium beautifulsoup4 lxml aiohttp aiofiles requests python-dotenv
    ```
+
+4. **Configure Mobile Masr credentials:**
+   - Navigate to `MobileMasrScrapper/` directory
+   - Copy `.env.example` to `.env`
+   - Add your Algolia API credentials to `.env`:
+     ```
+     ALGOLIA_APP_ID=your_app_id
+     ALGOLIA_API_KEY=your_api_key
+     ```
 
 ## Usage
 
@@ -147,16 +157,25 @@ You can adjust scraping parameters in the code:
 ## Troubleshooting
 
 **ChromeDriver Issues:**
+
 - Ensure Chrome/Chromium is installed
 - Selenium will auto-download compatible ChromeDriver
 
 **Connection Errors:**
+
 - Check your internet connection
 - Some sites may have rate limiting - reduce `max_workers` if needed
 
 **No Products Found:**
+
 - Verify the website structure hasn't changed
 - Check if the search query is valid
+
+**Mobile Masr Scraper Issues:**
+
+- Ensure `.env` file exists in `MobileMasrScrapper/` directory
+- Verify Algolia credentials are correctly set in `.env`
+- Check for `python-dotenv` package installation
 
 ## Project Structure
 

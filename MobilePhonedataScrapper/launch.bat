@@ -73,9 +73,10 @@ echo   - lxml
 echo   - aiohttp
 echo   - aiofiles
 echo   - requests
+echo   - python-dotenv
 echo.
 
-pip install selenium beautifulsoup4 lxml aiohttp aiofiles requests -q
+pip install selenium beautifulsoup4 lxml aiohttp aiofiles requests python-dotenv -q
 if %ERRORLEVEL% neq 0 (
     echo Error: Failed to install dependencies.
     pause
