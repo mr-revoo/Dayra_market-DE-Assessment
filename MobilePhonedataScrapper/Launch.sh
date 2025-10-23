@@ -79,10 +79,10 @@ echo "=========================================="
 echo "Setup Complete!"
 echo "=========================================="
 echo ""
-echo "Starting the scraper..."
+echo "Starting the unified scraper interface..."
 echo ""
 
-# Run the main scraper
+# Run the unified main scraper
 python main.py
 
 # Deactivate virtual environment on exit

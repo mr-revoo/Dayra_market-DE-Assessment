@@ -94,10 +94,10 @@ echo ==========================================
 echo Setup Complete!
 echo ==========================================
 echo.
-echo Starting the scraper...
+echo Starting the unified scraper interface...
 echo.
 
-REM Run the main scraper
+REM Run the unified main scraper
 python main.py
 
 REM Deactivate virtual environment
