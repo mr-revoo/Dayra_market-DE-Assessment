@@ -42,13 +42,13 @@ The project uses the following Python packages:
 
 #### Linux/macOS:
 ```bash
-chmod +x setup.sh
-./setup.sh
+chmod +x launch.sh
+./launch.sh
 ```
 
 #### Windows:
 ```cmd
-setup.bat
+launch.bat
 ```
 
 These scripts will:
