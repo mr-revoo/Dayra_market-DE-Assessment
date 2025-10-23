@@ -1,0 +1,956 @@
+{
+  "scraped_at": "2025-10-22T01:49:40.644477",
+  "total_products": 50,
+  "products": [
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Carbon Gray",
+      "price": "EGP 55,650",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-carbon-gray-used-su001275",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Carbon Gray",
+        "Battery Health": "90 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU001275"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 256 gb black",
+      "price": "EGP 43,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-256-gb-black-excellent-vu016573",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "black",
+        "Battery Health": "86 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016573"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb Pink",
+      "price": "EGP 36,750",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-pink-excellent-vu016560",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "Pink",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016560"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb black",
+      "price": "EGP 54,600",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-black-used-su001270",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "black",
+        "Battery Health": "93 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU001270"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb White Titanium",
+      "price": "EGP 54,500",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-white-titanium-excellent-vu016537",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "White Titanium",
+        "Battery Health": "86 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016537"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Black",
+      "price": "EGP 62,400",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-black-excellent-vu016515",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Black",
+        "Battery Health": "100 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016515"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 1 tb Natural Titanium",
+      "price": "EGP 69,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-1-tb-natural-titanium-excellent-vu016505",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "1 tb",
+        "Color": "Natural Titanium",
+        "Battery Health": "99 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016505"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Blue",
+      "price": "EGP 57,250",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-blue-excellent-vu016483",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "89 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016483"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Blue",
+      "price": "EGP 54,750",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-blue-excellent-vu016446",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016446"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Blue",
+      "price": "EGP 55,150",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-blue-excellent-vu016442",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016442"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Black",
+      "price": "EGP 53,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-black-excellent-vu016441",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Black",
+        "Battery Health": "87 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016441"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Blue",
+      "price": "EGP 50,440",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-blue-excellent-vu016440",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "84 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016440"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 512 gb White Titanium",
+      "price": "EGP 61,950",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-512-gb-white-titanium-excellent-vu016414",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "512 gb",
+        "Color": "White Titanium",
+        "Battery Health": "96 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016414"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Black",
+      "price": "EGP 50,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-black-excellent-vu016411",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Black",
+        "Battery Health": "84 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016411"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro 128 gb Titanium Blue",
+      "price": "EGP 45,760",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-ram-8-gb-128-gb-titanium-blue-excellent-vu016409",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro",
+        "RAM": "8 gb",
+        "Storage": "128 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016409"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Plus 128 gb Green",
+      "price": "EGP 38,850",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-plus-ram-6-gb-128-gb-green-used-su000899",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Plus",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "Green",
+        "Battery Health": "98 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU000899"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb Green",
+      "price": "EGP 42,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-green-used-su000860",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "Green",
+        "Battery Health": "88 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU000860"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Black",
+      "price": "EGP 58,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-black-excellent-vu016384",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Black",
+        "Battery Health": "91 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016384"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Natural Titanium",
+      "price": "EGP 44,625",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-natural-titanium-used-su000665",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Natural Titanium",
+        "Battery Health": "89 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU000665"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 512 gb Natural Titanium",
+      "price": "EGP 56,680",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-512-gb-natural-titanium-excellent-vu016275",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "512 gb",
+        "Color": "Natural Titanium",
+        "Battery Health": "87 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016275"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Natural Titanium",
+      "price": "EGP 54,150",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-natural-titanium-excellent-vu016273",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Natural Titanium",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016273"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro 128 gb Titanium Blue",
+      "price": "EGP 44,760",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-ram-8-gb-128-gb-titanium-blue-excellent-vu016210",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro",
+        "RAM": "8 gb",
+        "Storage": "128 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "89 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016210"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Phantom Black",
+      "price": "EGP 52,500",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-phantom-black-used-su000566",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Phantom Black",
+        "Battery Health": "95 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU000566"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 256 gb Pink",
+      "price": "EGP 52,500",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-256-gb-pink-new-vn016185",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "Pink",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN016185"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb black",
+      "price": "EGP 44,625",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-black-new-vn016183",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "black",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN016183"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Natural Titanium",
+      "price": "EGP 68,640",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-natural-titanium-new-vn016171",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Natural Titanium",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN016171"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Natural Titanium",
+      "price": "EGP 56,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-natural-titanium-excellent-vu016124",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Natural Titanium",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016124"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Plus 128 gb blue",
+      "price": "EGP 43,720",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-plus-ram-6-gb-128-gb-blue-excellent-vu016086",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Plus",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "100 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016086"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb black",
+      "price": "EGP 38,560",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-black-excellent-vu016066",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "black",
+        "Battery Health": "92 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016066"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb black",
+      "price": "EGP 37,500",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-black-excellent-vu016065",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "black",
+        "Battery Health": "86 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016065"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb blue",
+      "price": "EGP 37,500",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-blue-excellent-vu016064",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "85 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016064"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb black",
+      "price": "EGP 37,500",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-black-excellent-vu016061",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "black",
+        "Battery Health": "88 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016061"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb blue",
+      "price": "EGP 37,500",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-blue-excellent-vu016060",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "88 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016060"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 1 tb Titanium Black",
+      "price": "EGP 66,600",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-1-tb-titanium-black-excellent-vu016059",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "1 tb",
+        "Color": "Titanium Black",
+        "Battery Health": "94 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016059"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 512 gb Natural Titanium",
+      "price": "EGP 64,000",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-512-gb-natural-titanium-excellent-vu016055",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "512 gb",
+        "Color": "Natural Titanium",
+        "Battery Health": "91 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016055"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Blue",
+      "price": "EGP 52,750",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-blue-excellent-vu015995",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "85 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU015995"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Black",
+      "price": "EGP 55,750",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-black-excellent-vu014873",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Black",
+        "Battery Health": "89 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU014873"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 256 gb Titanium Blue",
+      "price": "EGP 56,160",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-256-gb-titanium-blue-excellent-vu014694",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Blue",
+        "Battery Health": "89 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU014694"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 Pro Max 512 gb Titanium Black",
+      "price": "EGP 67,650",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-pro-max-ram-8-gb-512-gb-titanium-black-excellent-vu014541",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15 Pro Max",
+        "RAM": "8 gb",
+        "Storage": "512 gb",
+        "Color": "Titanium Black",
+        "Battery Health": "94 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU014541"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 15 128 gb blue",
+      "price": "EGP 37,350",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/iphone-15-ram-6-gb-128-gb-blue-excellent-vu013965",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 15",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "87 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU013965"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi 15C 4G 256 gb blue",
+      "price": "EGP 7,280",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/xiaomi-redmi-15c-4g-ram-8-gb-256-gb-blue-new-vn016593",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi 15C 4G",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "blue",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN016593"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi 15C 4G 256 gb Mystic Black",
+      "price": "EGP 7,350",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/xiaomi-redmi-15c-4g-ram-8-gb-256-gb-mystic-black-new-vn016592",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi 15C 4G",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Mystic Black",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN016592"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi 15C 4G 128 gb Orange",
+      "price": "EGP 6,345",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/xiaomi-redmi-15c-4g-ram-6-gb-128-gb-orange-new-vn016591",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi 15C 4G",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "Orange",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN016591"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi 15C 4G 128 gb Mystic Black",
+      "price": "EGP 6,345",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/xiaomi-redmi-15c-4g-ram-6-gb-128-gb-mystic-black-new-vn016590",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi 15C 4G",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "Mystic Black",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN016590"
+      }
+    },
+    {
+      "product_name": "Nothing Nothing Phone 2a 256 gb black",
+      "price": "EGP 15,225",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/nothing-phone-2a-ram-12-gb-256-gb-black-used-su000567",
+      "details": {
+        "Brand": "Nothing",
+        "Model": "Nothing Phone 2a",
+        "RAM": "12 gb",
+        "Storage": "256 gb",
+        "Color": "black",
+        "Battery Health": "very good",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "SU000567"
+      }
+    },
+    {
+      "product_name": "Oppo Oppo Find X5 5G 256 gb black",
+      "price": "EGP 15,225",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/oppo-find-x5-5g-ram-8-gb-256-gb-black-used-su000571",
+      "details": {
+        "Brand": "Oppo",
+        "Model": "Oppo Find X5 5G",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "black",
+        "Battery Health": "very good",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "SU000571"
+      }
+    },
+    {
+      "product_name": "Honor Honor X9c 256 gb Titanium Black",
+      "price": "EGP 15,250",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/honor-x9c-ram-12-gb-256-gb-titanium-black-excellent-vu015906",
+      "details": {
+        "Brand": "Honor",
+        "Model": "Honor X9c",
+        "RAM": "12 gb",
+        "Storage": "256 gb",
+        "Color": "Titanium Black",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU015906"
+      }
+    },
+    {
+      "product_name": "Vivo Vivo V50 Lite 5G 256 gb gold",
+      "price": "EGP 15,100",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/vivo-v50-lite-5g-ram-12-gb-256-gb-gold-new-vn015837",
+      "details": {
+        "Brand": "Vivo",
+        "Model": "Vivo V50 Lite 5G",
+        "RAM": "12 gb",
+        "Storage": "256 gb",
+        "Color": "gold",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN015837"
+      }
+    },
+    {
+      "product_name": "Samsung Samsung Galaxy A55 128 gb Ice Blue",
+      "price": "EGP 15,800",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/samsung-galaxy-a55-ram-8-gb-128-gb-ice-blue-excellent-vu015226",
+      "details": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy A55",
+        "RAM": "8 gb",
+        "Storage": "128 gb",
+        "Color": "Ice Blue",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU015226"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi Note 12 Pro Plus 5G 256 gb blue",
+      "price": "EGP 15,300",
+      "seller_name": "MobileMasr",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/product/xiaomi-redmi-note-12-pro-plus-5g-ram-12-gb-256-gb-blue-excellent-vu014618",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi Note 12 Pro Plus 5G",
+        "RAM": "12 gb",
+        "Storage": "256 gb",
+        "Color": "blue",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU014618"
+      }
+    }
+  ]
+}

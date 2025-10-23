@@ -1,0 +1,709 @@
+{
+  "scraped_at": "2025-10-23T18:56:27.281119",
+  "total_products": 37,
+  "products": [
+    {
+      "product_name": "Apple Iphone 13 128 gb blue",
+      "price": "EGP 29,400",
+      "seller_name": "Mohamed Atia",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-blue-used-su001279",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "100 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU001279"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb blue",
+      "price": "EGP 27,150",
+      "seller_name": "Orange Mobile",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-blue-excellent-vu016610",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016610"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb blue",
+      "price": "EGP 26,000",
+      "seller_name": "Orange Mobile",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-blue-excellent-vu016609",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "88 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016609"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb Midnight",
+      "price": "EGP 22,900",
+      "seller_name": "Orange Mobile",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-midnight-excellent-vu016605",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "Midnight",
+        "Battery Health": "79 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016605"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb Green",
+      "price": "EGP 28,250",
+      "seller_name": "Goda phone",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-green-excellent-vu016597",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "Green",
+        "Battery Health": "90 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016597"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro Max 256 gb Sierra Blue",
+      "price": "EGP 37,500",
+      "seller_name": "Nashwan Store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-max-ram-6-gb-256-gb-sierra-blue-excellent-vu016569",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro Max",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "Sierra Blue",
+        "Battery Health": "77 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016569"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro Max 256 gb Sky Blue",
+      "price": "EGP 36,750",
+      "seller_name": "Khalied Yahya",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-max-ram-6-gb-256-gb-sky-blue-used-su001271",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro Max",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "Sky Blue",
+        "Battery Health": "79 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU001271"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb Midnight",
+      "price": "EGP 22,250",
+      "seller_name": "Harmony+",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-midnight-excellent-vu016528",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "Midnight",
+        "Battery Health": "75 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016528"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb Pink",
+      "price": "EGP 23,450",
+      "seller_name": "Nashwan Store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-pink-excellent-vu016506",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "Pink",
+        "Battery Health": "79 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016506"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro Max 256 gb Sierra Blue",
+      "price": "EGP 38,750",
+      "seller_name": "FM store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-max-ram-6-gb-256-gb-sierra-blue-excellent-vu016487",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro Max",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "Sierra Blue",
+        "Battery Health": "76 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VU016487"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro Max 256 gb Sierra Blue",
+      "price": "EGP 38,500",
+      "seller_name": "horizon",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-max-ram-6-gb-256-gb-sierra-blue-excellent-vu016447",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro Max",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "Sierra Blue",
+        "Battery Health": "79 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016447"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb black",
+      "price": "EGP 31,720",
+      "seller_name": "Nashwan Store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-black-new-vn016398",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "black",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN016398"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb white",
+      "price": "EGP 31,900",
+      "seller_name": "Nashwan Store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-white-new-vn016397",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "white",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN016397"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro Max 256 gb Alpine Green",
+      "price": "EGP 39,950",
+      "seller_name": "Goda phone",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-max-ram-6-gb-256-gb-alpine-green-excellent-vu016385",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro Max",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "Alpine Green",
+        "Battery Health": "79 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016385"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb Midnight",
+      "price": "EGP 25,970",
+      "seller_name": "Orange Mobile",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-midnight-excellent-vu016329",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "Midnight",
+        "Battery Health": "89 %",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016329"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 256 gb blue",
+      "price": "EGP 25,500",
+      "seller_name": "Harmony+",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-256-gb-blue-excellent-vu016266",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "256 gb",
+        "Color": "blue",
+        "Battery Health": "76 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU016266"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro Max 128 gb Cyan Lake",
+      "price": "EGP 31,500",
+      "seller_name": "محمود زعير",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-max-ram-6-gb-128-gb-cyan-lake-used-su000575",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro Max",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "Cyan Lake",
+        "Battery Health": "82 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU000575"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro Max 256 gb Phantom Black",
+      "price": "EGP 39,900",
+      "seller_name": "Mohammed Muhammad",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-max-ram-6-gb-256-gb-phantom-black-used-su000570",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro Max",
+        "RAM": "6 gb",
+        "Storage": "256 gb",
+        "Color": "Phantom Black",
+        "Battery Health": "83 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim",
+        "SKU": "SU000570"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 Pro 128 gb blue",
+      "price": "EGP 31,500",
+      "seller_name": "Elrhman Khalid",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-pro-ram-6-gb-128-gb-blue-used-su000569",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13 Pro",
+        "RAM": "6 gb",
+        "Storage": "128 gb",
+        "Color": "blue",
+        "Battery Health": "76 %",
+        "Warranty": "No",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "SU000569"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb Midnight",
+      "price": "EGP 31,650",
+      "seller_name": "Goda phone",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-midnight-new-vn016174",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "Midnight",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN016174"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb white",
+      "price": "EGP 31,780",
+      "seller_name": "FM store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-white-new-vn015956",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "white",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN015956"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb Pink",
+      "price": "EGP 25,200",
+      "seller_name": "FM store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-pink-excellent-vu015435",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "Pink",
+        "Battery Health": "78 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU015435"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 256 gb Pink",
+      "price": "EGP 26,850",
+      "seller_name": "Goda phone",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-256-gb-pink-excellent-vu013785",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "256 gb",
+        "Color": "Pink",
+        "Battery Health": "69 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU013785"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 128 gb black",
+      "price": "EGP 32,000",
+      "seller_name": "FM store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-128-gb-black-new-vn013703",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "128 gb",
+        "Color": "black",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VN013703"
+      }
+    },
+    {
+      "product_name": "Apple Iphone 13 256 gb blue",
+      "price": "EGP 27,285",
+      "seller_name": "FM store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/iphone-13-ram-4-gb-256-gb-blue-excellent-vu012939",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Iphone 13",
+        "RAM": "4 gb",
+        "Storage": "256 gb",
+        "Color": "blue",
+        "Battery Health": "75 %",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "1 sim + e sim",
+        "SKU": "VU012939"
+      }
+    },
+    {
+      "product_name": "Apple Apple Iphone 17 Pro Max 1 tb Silver",
+      "price": "EGP 133,000",
+      "seller_name": "FM store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/apple-iphone-17-pro-max-ram-12-gb-1-tb-silver-new-vn016632",
+      "details": {
+        "Brand": "Apple",
+        "Model": "Apple Iphone 17 Pro Max",
+        "RAM": "12 gb",
+        "Storage": "1 tb",
+        "Color": "Silver",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "e sim",
+        "SKU": "VN016632"
+      }
+    },
+    {
+      "product_name": "Oneplus OnePlus 13 512 gb Phantom Black",
+      "price": "EGP 47,350",
+      "seller_name": "Hatly",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/oneplus-13-ram-16-gb-512-gb-phantom-black-new-vn016429",
+      "details": {
+        "Brand": "Oneplus",
+        "Model": "OnePlus 13",
+        "RAM": "16 gb",
+        "Storage": "512 gb",
+        "Color": "Phantom Black",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN016429"
+      }
+    },
+    {
+      "product_name": "Oppo Oppo Reno 13 256 gb Luminous Blue",
+      "price": "EGP 24,750",
+      "seller_name": "Nashwan Store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/oppo-reno-13-ram-12-gb-256-gb-luminous-blue-excellent-vu016276",
+      "details": {
+        "Brand": "Oppo",
+        "Model": "Oppo Reno 13",
+        "RAM": "12 gb",
+        "Storage": "256 gb",
+        "Color": "Luminous Blue",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016276"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi Note 13 Pro Plus 512 gb Midday Dream",
+      "price": "EGP 20,865",
+      "seller_name": "Orange Mobile",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/xiaomi-redmi-note-13-pro-plus-ram-16-gb-512-gb-midday-dream-excellent-vu016189",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi Note 13 Pro Plus",
+        "RAM": "16 gb",
+        "Storage": "512 gb",
+        "Color": "Midday Dream",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016189"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi 13 Ultra  (Chinese version) 512 gb white",
+      "price": "EGP 31,200",
+      "seller_name": "El Hawakmy",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/xiaomi-13-ultra-chinese-version-ram-16-gb-512-gb-white-excellent-vu015939",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi 13 Ultra  (Chinese version)",
+        "RAM": "16 gb",
+        "Storage": "512 gb",
+        "Color": "white",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU015939"
+      }
+    },
+    {
+      "product_name": "Oppo Oppo Reno 13 256 gb Plume White",
+      "price": "EGP 22,000",
+      "seller_name": "Harmony1",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/oppo-reno-13-ram-12-gb-256-gb-plume-white-excellent-vu015546",
+      "details": {
+        "Brand": "Oppo",
+        "Model": "Oppo Reno 13",
+        "RAM": "12 gb",
+        "Storage": "256 gb",
+        "Color": "Plume White",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU015546"
+      }
+    },
+    {
+      "product_name": "Huawei Huawei nova 13 pro 512 gb black",
+      "price": "EGP 26,160",
+      "seller_name": "Harmony+",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/huawei-nova-13-pro-ram-12-gb-512-gb-black-new-vn014999",
+      "details": {
+        "Brand": "Huawei",
+        "Model": "Huawei nova 13 pro",
+        "RAM": "12 gb",
+        "Storage": "512 gb",
+        "Color": "black",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN014999"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi 13C 256 gb Phantom Green",
+      "price": "EGP 6,760",
+      "seller_name": "El akhwa",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/xiaomi-redmi-13c-ram-8-gb-256-gb-phantom-green-new-vn011257",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi 13C",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Phantom Green",
+        "Battery Health": null,
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VN011257"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Poco X6 Pro 256 gb black",
+      "price": "EGP 13,000",
+      "seller_name": "Harmony+",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/xiaomi-poco-x6-pro-ram-8-gb-256-gb-black-excellent-vu016595",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Poco X6 Pro",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "black",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016595"
+      }
+    },
+    {
+      "product_name": "Xiaomi Xiaomi Redmi Note 14 Pro 4G 256 gb Sandy Gold",
+      "price": "EGP 13,100",
+      "seller_name": "Harmony1",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/xiaomi-redmi-note-14-pro-4g-ram-8-gb-256-gb-sandy-gold-excellent-vu016576",
+      "details": {
+        "Brand": "Xiaomi",
+        "Model": "Xiaomi Redmi Note 14 Pro 4G",
+        "RAM": "8 gb",
+        "Storage": "256 gb",
+        "Color": "Sandy Gold",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016576"
+      }
+    },
+    {
+      "product_name": "Vivo Vivo V50 Lite 5G 256 gb gold",
+      "price": "EGP 13,780",
+      "seller_name": "Nashwan Store",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/vivo-v50-lite-5g-ram-12-gb-256-gb-gold-excellent-vu016277",
+      "details": {
+        "Brand": "Vivo",
+        "Model": "Vivo V50 Lite 5G",
+        "RAM": "12 gb",
+        "Storage": "256 gb",
+        "Color": "gold",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "Yes",
+        "SIM": "2-sim",
+        "SKU": "VU016277"
+      }
+    },
+    {
+      "product_name": "Samsung Samsung Galaxy M55 128 gb Light Green",
+      "price": "EGP 13,775",
+      "seller_name": "Orange Mobile",
+      "location": "Egypt",
+      "listing_url": "https://mobilemasr.com/en/category/mobile-phone/products/en/product/samsung-galaxy-m55-ram-8-gb-128-gb-light-green-excellent-vu013699",
+      "details": {
+        "Brand": "Samsung",
+        "Model": "Samsung Galaxy M55",
+        "RAM": "8 gb",
+        "Storage": "128 gb",
+        "Color": "Light Green",
+        "Battery Health": "very good",
+        "Warranty": "Yes",
+        "Insurance": "No",
+        "SIM": "2-sim",
+        "SKU": "VU013699"
+      }
+    }
+  ]
+}
